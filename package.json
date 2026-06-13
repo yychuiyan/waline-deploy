@@ -1,0 +1,10 @@
+{
+  "name": "waline-deploy",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/@waline/vercel/index.cjs"
+  },
+  "dependencies": {
+    "@waline/vercel": "latest"
+  }
+}
