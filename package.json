@@ -1,8 +1,9 @@
 {
   "name": "waline-deploy",
   "private": true,
+  "type": "module",
   "scripts": {
-    "start": "node node_modules/@waline/vercel/index.cjs"
+    "build": "echo done"
   },
   "dependencies": {
     "@waline/vercel": "latest"
