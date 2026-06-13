@@ -1,10 +1,7 @@
 {
   "name": "waline-deploy",
   "private": true,
-"scripts": {
-    "build": "echo done"
-  },
   "dependencies": {
-    "@waline/vercel": "latest"
+    "@waline/vercel": "1.40.3"
   }
 }
