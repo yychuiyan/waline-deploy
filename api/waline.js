@@ -1,3 +1,1 @@
-import Waline from '@waline/vercel'
-
-export default Waline()
+module.exports = require('@waline/vercel')
