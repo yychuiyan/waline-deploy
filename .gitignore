@@ -1,4 +1,6 @@
 .history/
 .claude/
 .env
+.env.*
+!.env.example
 node_modules/
